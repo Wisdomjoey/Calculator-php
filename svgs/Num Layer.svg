@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 482 1036" width="482" height="1036">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: #354a46 } 
+	</style>
+	<g id="&lt;Group&gt;">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m16.4 37.4l101 89.4v279.7l-101 97.2z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m16.4 537.3l101 89.4v279.7l-101 97.2z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m463.2 37.4l-101 89.4v279.7l101 97.2z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m25.1 18l107.9 101h209.8l113.6-101z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m25.1 1020.4l107.9-101h209.8l113.6 101z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m463.2 537.3l-101 89.4v279.7l101 97.2z"/>
+		</g>
+		<path id="&lt;Path&gt;" class="s0" d="m349.6 463.2h-209.8l-107.9 57.7 107.9 57.6h209.8l113.6-57.6z"/>
+	</g>
+</svg>
